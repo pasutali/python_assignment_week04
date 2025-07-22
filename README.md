@@ -1,1 +1,2 @@
-# python_assignment_week04
+Lab week 4 assignment 1.
+
